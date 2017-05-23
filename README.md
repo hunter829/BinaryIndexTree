@@ -56,7 +56,7 @@ public class BinaryIndexTree {
 
 ```
 
-![BITUpdate12.png](/Users/hongruzh/Desktop/BinaryIndexTree/BITUpdate12.png)
+![BITUpdate12.png](./BITUpdate12.png)
 
 一. lowerbits(x) 函数
 lowerbits 函数代表在一个 在二进制表达式当中，最右边1所对应的值
